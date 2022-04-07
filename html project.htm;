@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> This is bloging website</title>
+<link rel="stylesheet" href="dddd.css">
+</head>
+<body>
+<div class="A">
+<button class="button">Get started</button>
+<input class="text" placeholder="google search" name="Google search">
+</div>
+<h1 class="B">Blogging</h1>
+<div class="metso">
+<button class="ch">Total Views: 15948</button>
+<button class="ch">Total Users: 661559</button>
+</div>
+<div class="C">
+<button class="Cow">Home</button>
+<button class="Cow">Nation</button>
+<button class="Cow">Sports</button>
+<button class="Cow">Politics</button>
+<button class="Cow">Entertainment</button>
+<button class="Cow">Search</button>
+<button class="Cow">Contact Us</button>
+</div>
+<div class="D">
+<img src="corneto.jpg" alt="ice cream" width="400" height="200"/>
+<h2>No That's Not How You Say It</h2>
+<h3 class="met">A short personal history of my favorite fast food</h3>
+<br>
+<h4 class="f">(read more....)</h4>
+<h5>VIP sing</h5>
+<h6 class="g">jan 29 min read</h6>
+</div>
+<div class="diwesh">
+<img src="hack.jpg" alt="hacker"  width="100px" height="100px" />
+<p class="met">
+Html is standarlized system for</br>
+tagging text fileto achieve text,fonts</br>
+,color and hyperlinks effects of www
+ </p>
+ </div>
+ <div class="horse">
+ <img src="" alt="" width="100px" height="100px:" />
+ <p class="met">Css describes HTML Elements are to</br>
+    be displayed in screen paper or in another</br>
+	media & control the layout of of multiple</br>
+	webpage.
+	</p>
+</div>
+<div class="hen">
+<img src="" alt="" width="100px" height="100px" />
+<p class="met">Teach yourself the foundations of</br>
+   designing using this links made</br>
+   learning freecodecamp & theodinproject.
+   </p>
+</div>
+<div class="last">
+<img src="" alt="" width="400px" height="200px" />
+<h1>Should twitter get rid of Follower</br>
+    Counts?
+<p class="tec">The possibility feels closer than ever</p>
+<p class="aut">Cool Neha in all things Creative</p>
+<h5>jan 9 . 5 min read</p>
+</div>
+</body>
+</html>
